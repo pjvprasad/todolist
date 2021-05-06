@@ -2,13 +2,13 @@ import React from 'react';
 import { Route, BrowserRouter as Router, Switch, Link } from 'react-router-dom';
 
 function About(){
-  return <h2>About the page</h2>
+  return <h2>About the new page</h2>
 }
 function Home(){
-  return <h2>Home of the page</h2>
+  return <h2>Home of the new page</h2>
 }
 function Contact(){
-  return <h2>Contact of the page</h2>
+  return <h2>Contact of the new page</h2>
 }
 function NavBar(){
   return <div class="navbar navbar-default">
